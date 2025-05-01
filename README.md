@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Jain
 - 👀 I’m interested in entrepreneurship and data science
-- 🌱 I’m currently learning DSA and C++
+- 🌱 I’m currently learning Deep Learning
 
 
 <!---

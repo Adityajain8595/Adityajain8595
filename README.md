@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Jain
-- 👀 I’m interested in entrepreneurship and data science
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in AI-ML and data science
+- 🌱 I’m currently learning Gen AI
 
 
 <!---

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi,%20I'm%20Aditya%20Jain!&fontSize=90&fontAlignY=38&desc=GenAI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Undergrad&descAlignY=55&descSize=25" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi,%20I'm%20Aditya%20Jain!&fontSize=90&fontAlignY=38&desc=GenAI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Undergrad&descAlignY=55&descSize=25&fontColor=39ff14" alt="Header" />
 </div>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Visitor Count](https://visit-count.vercel.app/count/badge/Adityajain8595?bg_color=0d1117&text_color=ffffff&count_color=38bdf8)](https://github.com/YOUR_GITHUB_USERNAME)
+  [![Visitor Count](https://visit-count.vercel.app/count/badge/Adityajain8595?bg_color=0d1117&text_color=ffffff&count_color=38bdf8)](https://github.com/Adityajain8595)
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **3rd Year B.Tech Computer Science & Engineering** student with a deep passion for **Generative AI**, **Large Language Models (LLMs)**, and **Machine Learning**. 
+I am a third-year B.Tech student in Computer Science & Engineering with a deep passion for Generative AI, Large Language Models (LLMs), and Machine Learning. 
 
 I specialise in building end-to-end AI applications, moving from research to production (Python, FastAPI, React, Cloud). I enjoy creating solutions and experimenting 
 
 - 🔭 I’m currently working on: **Deep Learning, Advanced RAG systems, and LangGraph**.
 - 🏆 Recent Achievement: Tackled multimodal product price prediction in the **Amazon ML Challenge**.
-- ⚡ Fun fact: When I'm not training models, I'm over-analysing stats for my **Fantasy Premier League (FPL)** team. ⚽
+- ⚡ Fun fact: When I'm not training models, I'm over-analysing stats for my **(FPL)** team and watching some quality football and movies on weekends! ⚽
 
 ---
 

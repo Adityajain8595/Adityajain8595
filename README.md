@@ -1,71 +1,117 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi,%20I'm%20Aditya%20Jain!&fontSize=90&fontAlignY=38&desc=GenAI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Undergrad&descAlignY=55&descSize=25&fontColor=39ff14" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Jain&fontSize=90&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20Enthusiast%20%7C%20CSE%20Undergrad&descAlignY=55&descSize=25&descColor=2d79c7&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
 <h3 align="center">
-  🤖 Building Intelligent Agents & Scalable Backends
+  🤖 Building Intelligent Systems & Scalable AI Solutions
 </h3>
 
 <div align="center">
   
-  [![Visitor Count](https://visit-count.vercel.app/count/badge/Adityajain8595?bg_color=0d1117&text_color=ffffff&count_color=38bdf8)](https://github.com/Adityajain8595)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Adityajain8595&color=blue&style=flat)
+  [![GitHub Followers](https://img.shields.io/github/followers/Adityajain8595?label=Follow&style=social)](https://github.com/Adityajain8595)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍🎓 About Me
 
-I am a third-year B.Tech student in Computer Science & Engineering with a deep passion for Generative AI, Large Language Models (LLMs), and Machine Learning. 
+Third-year Computer Science & Engineering student passionate about **Generative AI, Machine Learning, and Data Science**. I specialize in building end-to-end AI applications, from research to production deployment. Continuously exploring the intersection of AI theory and practical implementation.
 
-I specialise in building end-to-end AI applications, moving from research to production (Python, FastAPI, React, Cloud). I enjoy creating solutions and experimenting 
-
-- 🔭 I’m currently working on: **Deep Learning, Advanced RAG systems, and LangGraph**.
-- 🏆 Recent Achievement: Tackled multimodal product price prediction in the **Amazon ML Challenge**.
-- ⚡ Fun fact: When I'm not training models, I'm over-analysing stats for my **(FPL)** team and watching some quality football and movies on weekends! ⚽
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Generative AI & ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-**Backend & Cloud**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🔭 **Currently working on:** Advanced RAG systems, LLM agents with LangGraph, and multimodal AI applications
+- 🏆 **Recent Achievement:** Participated in **Amazon ML Challenge** - tackled multimodal product price prediction
+- 📚 **Learning:** MLOps, scalable AI systems, and advanced deep learning architectures
+- ⚡ **Beyond Code:** Football analytics enthusiast (FPL strategist) ⚽ | Film buff | Continuous learner
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technical Stack
+
+#### **Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black)
+
+#### **AI/ML & Data Science**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+
+#### **Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white&labelColor=black)
+![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logoColor=white&labelColor=black)
+
+#### **Vector Databases & Search**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00C7B7?style=for-the-badge&logoColor=white&labelColor=black)
+
+#### **Backend & Cloud**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=black)
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityajain8595&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityajain8595&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117" alt="Aditya's Streak" />
+
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/Adityajain8595">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityajain8595&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityajain8595&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" />
+</a>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/Adityajain8595">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Adityajain8595&theme=default&hide_border=true&background=FFFFFF00&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
 </div>
 
+---
+
+### 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityajain8595&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityajain8595&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adityajain8595&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityajain8595/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityajain8595)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meaditya1103@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <p>Let's connect! 🚀</p>
-  <a href="[MY LINKEDIN](https://www.linkedin.com/in/adityajain8595/")>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2D79C7&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building;From+Theory+to+Production;Open+to+AI%2FML+Opportunities" alt="Typing SVG" />
+
 </div>

@@ -6,23 +6,15 @@
   🤖 Building Intelligent Systems & Scalable AI Solutions
 </h3>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Adityajain8595&color=blue&style=flat)
-  [![GitHub Followers](https://img.shields.io/github/followers/Adityajain8595?label=Follow&style=social)](https://github.com/Adityajain8595)
-
-</div>
-
 ---
 
 ### 👨‍🎓 About Me
 
-Third-year Computer Science & Engineering student passionate about **Generative AI, Machine Learning, and Data Science**. I specialize in building end-to-end AI applications, from research to production deployment. Continuously exploring the intersection of AI theory and practical implementation.
+Third-year Computer Science & Engineering student passionate about **Generative AI, Machine Learning, and Data Science**. I specialise in building end-to-end AI applications, from research to production deployment. Continuously exploring the intersection of AI theory and practical implementation.
 
-- 🔭 **Currently working on:** Advanced RAG systems, LLM agents with LangGraph, and multimodal AI applications
+- 🔭 **Currently working on:** Advanced RAG systems, LLM agents with LangGraph, and deep learning applications
 - 🏆 **Recent Achievement:** Participated in **Amazon ML Challenge** - tackled multimodal product price prediction
-- 📚 **Learning:** MLOps, scalable AI systems, and advanced deep learning architectures
-- ⚡ **Beyond Code:** Football analytics enthusiast (FPL strategist) ⚽ | Film buff | Continuous learner
+- ⚡ **Beyond Code:** Watch Football and play FPL ⚽ | Film buff | Continuous learner
 
 ---
 
@@ -56,45 +48,6 @@ Third-year Computer Science & Engineering student passionate about **Generative 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=black)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/Adityajain8595">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityajain8595&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityajain8595&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" />
-</a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/Adityajain8595">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Adityajain8595&theme=default&hide_border=true&background=FFFFFF00&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityajain8595&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adityajain8595&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 

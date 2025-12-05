@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Jain&fontSize=90&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20Enthusiast%20%7C%20CSE%20Undergrad&descAlignY=55&descSize=25&descColor=2d79c7&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
+
 ---
 
 ### 👨‍🎓 About Me
